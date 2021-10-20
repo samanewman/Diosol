@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+  }
+  
+
 .TablaSoluciones{
     border: tomato;
     border-style: groove;
