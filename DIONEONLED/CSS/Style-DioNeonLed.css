@@ -41,7 +41,6 @@ body {
 
 .card-columns {
   background-color: transparent;
-
 }
 .card-columns .card--variantedark {
   background-color: ColorBG;
@@ -60,13 +59,9 @@ body {
   margin: 1rem;
 }
 
-
-
-
 * {
   margin: 0;
   padding: 0%;
 }
-
 
 /*# sourceMappingURL=Style-DioNeonLed.css.map */
