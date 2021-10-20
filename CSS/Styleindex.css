@@ -5,4 +5,16 @@
 .carousel-caption{
     margin-bottom: 15rem;
     -webkit-text-stroke: 1px black;
+    font-size: 50px;
+}
+
+
+@media (max-width: 700px) {
+
+    .carousel-caption{
+        margin-bottom: 0px;
+        -webkit-text-stroke: 1px black;
+        font-size: 25px;
+    }
+    
 }
