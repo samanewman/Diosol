@@ -9,6 +9,7 @@
     &
     .navbar-brand, .TextoLuminoso{
         color: white;
+        font-size: 3vh;
         text-align: center;
         text-shadow:
 		0 0 5px rgb(21, 255, 0),
@@ -82,6 +83,7 @@
 	background-color: transparent;
     display: flex;
     flex-direction: row;
+    justify-content:space-around;
 
 
 	&
@@ -91,10 +93,56 @@
 		margin: 1rem;
 		width: 300px;
         border: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
 		&
 
 		.card-title{
 			margin: 1rem;
+            color: white;
 		}
+
+        &
+
+        .cardBodyText{
+            color: white;
+        }
+
+        &
+        .cardBody{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        &
+        .cardBodyTitle{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
 	}
 }
+
+
+footer{
+
+    .col{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    &
+    .FooterTitle{
+        color: white;
+
+    }
+
+ 
+}
+
+
+
+
