@@ -59,7 +59,7 @@ body{
 	&
 
 	.navbar-nav{
-    margin-top: 2rem;
+		margin-top: 2rem;
 	}
 }
 
@@ -94,31 +94,31 @@ body{
 .card-columns{
 
 	background-color: transparent;
-
-	&
-
-	.card--variantedark{
-		background-color: ColorBG;
-		margin: 1rem;
-		width: 300px;
-
-		&
-
-		.card-title{
-			margin: 1rem;
-		}
-	}
-
-	&
 	
-	.card--variantetransparente {
+
+	&
+
+	.card{
 		background-color: transparent;
-		margin: 1rem;
-		width: 300px;
+		
+
 		&
 
-		.card-title{
-			margin: 1rem;
+		.cardBodyTitle{
+			color: white;
+		}
+
+		&
+
+		.cardBody{
+			background-color: transparent;
+		}
+
+		&
+
+		.cardBodyText{
+			background-color: transparent;
 		}
 	}
 }
+

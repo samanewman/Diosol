@@ -12,14 +12,12 @@
   margin-top: 0;
   margin-bottom: 0;
 }
-
 .navbar .navbar-brand,
 .navbar .TextoLuminoso {
   color: white;
   text-align: center;
   text-shadow: 0 0 5px #15ff00, 0 0 10px #1eff00, 0 0 20px lime, 0 0 40px #267f2d, 0 0 80px #267f3c, 0 0 90px #2d7f26, 0 0 100px #267f32, 0 0 140px #267f39, 0 0 180px #267f35;
 }
-
 .navbar .navbar-brand__p {
   font-size: 100px;
   margin-right: 1vh;
@@ -27,18 +25,15 @@
   margin-top: 0;
   margin-bottom: 0;
 }
-
 .navbar .navbar-brand__span {
   margin: 0;
   font-size: 4vh;
   font-family: "Tourney", cursive;
 }
-
 .navbar .nav-link {
   color: white;
   text-shadow: 0 0 5px #15ff00, 0 0 10px #1eff00, 0 0 20px lime, 0 0 40px #267f2d, 0 0 80px #267f3c, 0 0 90px #2d7f26, 0 0 100px #267f32, 0 0 140px #267f39, 0 0 180px #267f35;
 }
-
 .navbar .navbar-toggler {
   background-color: yellowgreen;
 }
@@ -47,7 +42,6 @@
   display: flex;
   flex-direction: column;
 }
-
 .boxbtntexto .boxbtnbtn {
   display: flex;
   flex-direction: row;
@@ -59,14 +53,12 @@
   display: flex;
   flex-direction: row;
 }
-
 .card-columns .card {
   background-color: transparent;
   margin: 1rem;
   width: 300px;
   border: none;
 }
-
 .card-columns .card .card-title {
   margin: 1rem;
 }
@@ -106,7 +98,5 @@
   padding: 10px;
   border: 1px solid #00ff22;
 }
-
-/*# sourceMappingURL=Style.css.map */
 
 /*# sourceMappingURL=Style.css.map */

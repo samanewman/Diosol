@@ -42,22 +42,17 @@ body {
 .card-columns {
   background-color: transparent;
 }
-.card-columns .card--variantedark {
-  background-color: ColorBG;
-  margin: 1rem;
-  width: 300px;
-}
-.card-columns .card--variantedark .card-title {
-  margin: 1rem;
-}
-.card-columns .card--variantetransparente {
+.card-columns .card {
   background-color: transparent;
-  margin: 1rem;
-  width: 300px;
 }
-
-.card-columns .card--variantetransparente .card-title {
-  margin: 1rem;
+.card-columns .card .cardBodyTitle {
+  color: white;
+}
+.card-columns .card .cardBody {
+  background-color: transparent;
+}
+.card-columns .card .cardBodyText {
+  background-color: transparent;
 }
 
 * {
